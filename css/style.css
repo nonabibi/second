@@ -1,0 +1,75 @@
+/*base classes*/
+.vertical-items {
+	display: inline-block;
+	vertical-align: middle
+}
+.top-items {
+	display: inline-block;
+	vertical-align: top;
+}
+/*base classes*/
+.header {
+	padding: 30px;
+}
+.logo {
+	width: 100px;
+}
+.nav-ul {
+	margin-left: 30px;
+}
+.nav-a {
+	display: block;
+	padding: 7.5px 15px;
+	text-decoration: none;
+	font-size: 22px;
+	font-family: "nino_mtavruli_bold", sans-serif;
+	color: #3D58A6;
+}
+.nav-a:hover {
+	color: #EE4036;
+}
+
+/*header finish*/
+.banner {
+	margin-left: 98px;
+	margin-top: 43px;
+	margin-right: 98px;
+	margin-bottom: 60px;
+}
+/*banner finih*/
+.describe{
+	margin-left: 98px;
+	margin-top: 60px;
+	font-family: 'RobotoRegular';
+	font-size: 24px;
+	color: #000000;
+}
+.down {
+	background: #F2F2F2
+	margin-left: 98px;
+	margin-top: 53px;
+	font-family: 'RobotoRegular';
+	font-size: 24px;
+	color: #3D58A6;
+}
+
+.footer {
+	margin-left: 98px;
+	padding-top: 30px;
+    padding-bottom: 30px;
+}
+.facebook {
+	height: 30px;
+}
+.youtube {
+	height: 30px;
+}
+.social-networks {
+	display: inline-block;
+	margin-right: 35px; 
+}
+.line{
+	width: 1px;
+	height: 30px;
+	background-color: #3D58A6;
+}
